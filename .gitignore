@@ -5,6 +5,8 @@
 
 # Python
 .venv/
+venv/
+env/
 __pycache__/
 *.pyc
 .pytest_cache/
@@ -16,6 +18,7 @@ dist/
 # Local data
 uploads/
 *.db
+.document-qa/
 
 # macOS
 .DS_Store
